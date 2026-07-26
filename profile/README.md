@@ -31,4 +31,4 @@ ZoeyMind 由 **深圳市世龙成就科技有限公司** 开发与维护.
 
 Licensed under **GPLv3 with additional terms**. Enterprise modules available under separate commercial license.
 
-Contact: hello@zoeymind.com · security@zoeymind.com
+Contact: contact@zoeymind.com · security@zoeymind.com
