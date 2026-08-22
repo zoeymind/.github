@@ -4,7 +4,7 @@
 
 # ZoeyMind
 
-**本地优先的思维导图工作站 · 内置 AI Agent**
+**面向测试人员的功能测试用例编辑器 · 思维导图 × AI Agent**
 
 [Website](https://zoeymind.com) · [Download](https://github.com/zoeymind/zoeymind-desktop/releases/latest) · [Docs](https://github.com/zoeymind/zoeymind-desktop#readme)
 
@@ -14,7 +14,7 @@
 
 ## Product
 
-- **[zoeymind-desktop](https://github.com/zoeymind/zoeymind-desktop)** — 桌面端思维导图应用（macOS / Windows / Linux），内置 Mind AI Agent + 外部自动化（CLI / MCP）。基于 Tauri 2 + React 19。
+- **[zoeymind-desktop](https://github.com/zoeymind/zoeymind-desktop)** — 本地优先的功能测试用例编辑器（macOS / Windows / Linux），支持 BYOK AI，以及 XMind × MeterSphere 双向流通。基于 Tauri 2 + React 19。
 
 ## Packages
 
@@ -23,8 +23,8 @@
 
 ## About
 
-由 [@caishilong](https://github.com/caishilong) 个人维护的开源项目。
+由 [@chacelow](https://github.com/chacelow) 个人维护的开源项目。
 
-License: [PolyForm Noncommercial 1.0.0](https://github.com/zoeymind/zoeymind-desktop/blob/main/LICENSE)。允许非商业阅读、修改与再分发；商业授权见仓库 [`LICENSING.md`](https://github.com/zoeymind/zoeymind-desktop/blob/main/LICENSING.md)。
+License: [Apache License 2.0](https://github.com/zoeymind/zoeymind-desktop/blob/main/LICENSE)。允许使用、修改、商用与再分发，需保留许可证与归属声明。
 
 Contact: <1103837067@qq.com>
