@@ -4,31 +4,27 @@
 
 # ZoeyMind
 
-**现代化质量协作平台**
+**本地优先的思维导图工作站 · 内置 AI Agent**
 
-Modern quality collaboration platform for agile & DevOps teams
-面向敏捷 & DevOps 团队 · 开源核心 · 私有部署
-
-[Website](https://zoeymind.com) · [Docs](https://zoeymind.com/docs/getting-started) · [Community](https://github.com/zoeymind/zoeymind/discussions)
+[Website](https://zoeymind.com) · [Download](https://github.com/zoeymind/zoeymind-desktop/releases/latest) · [Docs](https://github.com/zoeymind/zoeymind-desktop#readme)
 
 </div>
 
 ---
 
-## Our Products
+## Product
 
-- **[zoeymind](https://github.com/zoeymind/zoeymind)** — 一体化质量协作平台. 用例设计 · 敏捷迭代 · 缺陷跟踪 · 质量度量, 一站承载.
+- **[zoeymind-desktop](https://github.com/zoeymind/zoeymind-desktop)** — 桌面端思维导图应用（macOS / Windows / Linux），内置 Mind AI Agent + 外部自动化（CLI / MCP）。基于 Tauri 2 + React 19。
 
-## About the Name
+## Packages
 
-**ZoeyMind** = **Zoey** (生命 · 记忆点) + **Mind** (心智 · 思考)
+- **[`@zoeymind/cli`](https://www.npmjs.com/package/@zoeymind/cli)** — 命令行客户端 `zoeymind`，脚本或本地工具调用 Desktop。
+- **[`@zoeymind/mcp`](https://www.npmjs.com/package/@zoeymind/mcp)** — stdio MCP server `zoeymind-mcp`，把 Desktop 暴露给 Claude Code / OMP / Codex / OpenCode 等 MCP Host。
 
-让质量成为团队的集体心智, 而不是流程里孤立的一步.
+## About
 
-## About Us
+由 [@caishilong](https://github.com/caishilong) 个人维护的开源项目。
 
-ZoeyMind 由 **深圳市世龙成就科技有限公司** 开发与维护.
+License: [PolyForm Noncommercial 1.0.0](https://github.com/zoeymind/zoeymind-desktop/blob/main/LICENSE)。允许非商业阅读、修改与再分发；商业授权见仓库 [`LICENSING.md`](https://github.com/zoeymind/zoeymind-desktop/blob/main/LICENSING.md)。
 
-Licensed under **GPLv3 with additional terms**. Enterprise modules available under separate commercial license.
-
-Contact: contact@zoeymind.com · security@zoeymind.com
+Contact: <1103837067@qq.com>
